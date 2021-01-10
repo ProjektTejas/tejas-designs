@@ -26,6 +26,10 @@ This respository contains the favicons, logo and other design realated stuff.
 
 ![logo](output/1x/logomdpi.png)
 
+### Backend Architecure
+
+![arch](backend-architecture/architecture-dark.png)
+
 ---
 
 <h3 align="center">Made with 💘 by shadowleaf</h3>
